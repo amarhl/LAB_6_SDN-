@@ -29,6 +29,6 @@ class Student():
 # more example
 student03 = Student('levi', 'SPN 1102', 'summer semester', 'part time', '16')
 student04 = Student('julianah', 'ENC 1101', 'fall semester', 'full time', '21')
-student05 = TransferStudent('angelo', 'algebra 1', 'spring semester', 'full time', '27')
+student05 = Student('angelo', 'algebra 1', 'spring semester', 'full time', '27')
 
 # more example
